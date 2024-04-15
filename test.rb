@@ -5,3 +5,7 @@ end
 def adiosMundo
   p "Adios Mundo!"
 end
+
+def loQuesea
+
+end
