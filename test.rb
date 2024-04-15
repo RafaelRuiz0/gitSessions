@@ -7,5 +7,5 @@ def adiosMundo
 end
 
 def loQuesea
-
+ p "Lo Que sea"
 end
